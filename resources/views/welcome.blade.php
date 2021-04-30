@@ -33,7 +33,7 @@
 
       </div>
     </div>
-    <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="ba.jpg" alt="Unsplashed background img 1"></div>
   </div>
 
 
